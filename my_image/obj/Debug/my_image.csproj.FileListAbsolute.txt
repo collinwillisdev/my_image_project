@@ -1,0 +1,10 @@
+C:\Users\colli\source\repos\my_image\my_image\bin\Debug\my_image.exe.config
+C:\Users\colli\source\repos\my_image\my_image\bin\Debug\my_image.exe
+C:\Users\colli\source\repos\my_image\my_image\bin\Debug\my_image.pdb
+C:\Users\colli\source\repos\my_image\my_image\obj\Debug\my_image.csprojAssemblyReference.cache
+C:\Users\colli\source\repos\my_image\my_image\obj\Debug\my_image.Form1.resources
+C:\Users\colli\source\repos\my_image\my_image\obj\Debug\my_image.Properties.Resources.resources
+C:\Users\colli\source\repos\my_image\my_image\obj\Debug\my_image.csproj.GenerateResource.cache
+C:\Users\colli\source\repos\my_image\my_image\obj\Debug\my_image.csproj.CoreCompileInputs.cache
+C:\Users\colli\source\repos\my_image\my_image\obj\Debug\my_image.exe
+C:\Users\colli\source\repos\my_image\my_image\obj\Debug\my_image.pdb
